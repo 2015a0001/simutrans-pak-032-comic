@@ -1,0 +1,71 @@
+Dutch Train Set
+
+I've copied my graphics over some vehicles of the DB-set.
+
+The sprites I didn't need, have been kept unedited.
+
+Here folows a list of sprite-numbers used by my graphics:
+
+
+
+  84-  88 - NS 1600
+  89-  92 - NS 1300
+1299-1306 - NS Passagierswagon (car)
+
+  93- 100 - NS 6400
+
+ 125- 128 - SNCF/NMBS 1100 (front)
+ 203- 210 - NS Benelux 'Cockpit' (back)
+1307-1314 - NS Benelux Passagierswagon (car)
+
+ 241- 248 - NS Sprinter (front)
+ 249- 256 - NS Sprinter (back)
+1743-1746 - NS Sprinter (car)
+
+ 293- 301 - NS CityPendel (front)
+ 302- 309 - NS CityPendel (back)
+
+ 141- 148 - NS Dubbeldekker (front)
+ 165- 172 - NS Dubbeldekker (back)
+1792-1799 - NS Dubbeldekker (car)
+
+ 805- 812 - NS Sprinter 2900 (front)
+ 813- 820 - NS Sprinter 2900 (back)
+1755-1758 - NS Sprinter 2900 (car)
+
+ 419- 426 - NS Hondekop (front)
+ 427- 434 - NS Hondekop (back)
+1731-1734 - NS Hondekop (car)
+
+ 342- 349 - NS RegioRunner (front)
+ 350- 357 - NS RegioRunner (back)
+1800-1803 - NS RegioRunner (car)
+
+ 469- 476 - NS Railhopper (front)
+ 477- 484 - NS Railhopper (back)
+
+ 557- 564 - NS Buffel (front)
+ 565- 572 - NS BUffel (back)
+
+1027-1034 - NS Wadloper (front)
+1035-1042 - NS Wadloper (back)
+
+ 411- 418 - NS Wadloper Railbus
+
+ 184- 191 - NS Diesel-Drie (front)
+
+ 605- 612 - NS Lightrail (front)
+ 613- 620 - NS Lightrail (back)
+
+ 892- 899 - NS Koploper (front)
+ 900- 907 - NS Koploper (back)
+1315-1318 - NS Koploper (car)
+
+1327-1334 - SBB Eurocity 2e klasse (car)
+1335-1342 - SBB Eurocity 1e klasse panorama (car)
+
+1343-1350 - NS IC+ (car)
+
+ICE and Thalys are removed because of copyright reasons 
+
+
